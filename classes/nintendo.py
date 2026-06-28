@@ -6,4 +6,4 @@ class Nintendo(Game):
                 "Super Nintendo", "Nintendo 64", "Game Cube", "Wii", "GameBoy", "Nintendo DS/3DS", "Switch")
 
     def get_logo(self) -> str:
-        return "https://github.com/apriltgray/PyLedger/blob/main/static/nintendo.png?raw=true"
+        return "https://github.com/apriltgray/PyLedger/blob/main/assets/nintendo.png?raw=true"

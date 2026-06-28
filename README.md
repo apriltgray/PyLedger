@@ -1,6 +1,6 @@
 # PyLedger
 
-## April Breen | CSC 360 Python Programming | Fall 2023
+## April Gray ~~Breen~~ | CSC 360 Python Programming | Fall 2023
 
 ### Dependencies:
 

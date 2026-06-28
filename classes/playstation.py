@@ -6,4 +6,4 @@ class Playstation(Game):
                 "PlayStation 3", "PlayStation 4", "PlayStation 5")
 
     def get_logo(self) -> str:
-        return "https://photobucket.com/share/6488a891-4537-4f7e-9104-974244e90135"
+        return "https://github.com/apriltgray/PyLedger/blob/main/static/atari.png?raw=true"

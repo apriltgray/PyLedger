@@ -18,4 +18,4 @@ class Game:
 
     def get_logo(self) -> str:
         # Default Logo
-        return "https://github.com/apriltgray/PyLedger/blob/main/assets/default.png?raw=true"
+        return "https://github.com/apriltgray/PyLedger/blob/main/static/default.png?raw=true"

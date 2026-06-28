@@ -20,7 +20,7 @@ python -m streamlit run app.py
 
 ### Link to Sample .csv
 
-[Sample Library](https://drive.google.com/file/d/1ePjuJj88ekAlFs1NfWrqU7mfcXVKBjbb/view?usp=sharing)
+[Sample Library](https://docs.google.com/spreadsheets/d/1WBm1B2RvpezHOfdwVnWHhb2I4Oj2afSsf7R4wemtXOc/edit?usp=sharing)
 
 ### Welcome to PyLedger:
 
